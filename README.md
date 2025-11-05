@@ -146,7 +146,7 @@ C:\websocket-pipeline\client> npm run dev
 **클라이언트 화면:**
 
 <img src="./images/client-screenshot.png" width="800">
----
+
 
 ## 🎨 5. TouchDesigner 연결
 
