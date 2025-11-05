@@ -1,3 +1,5 @@
+[English](./README.en.md) | [한국어](./README.md)
+
 # 🪟 Windows WebSocket 파이프라인 실행 가이드
 
 > **Next.js → Node.js → TouchDesigner**  
