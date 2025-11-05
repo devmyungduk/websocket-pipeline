@@ -143,6 +143,9 @@ C:\websocket-pipeline\client> npm run dev
    - 화면 클릭 → 전송 로그 확인
    - 키보드 입력 → 전송 로그 확인
 
+**클라이언트 화면:**
+
+<img src="./images/client-screenshot.png" width="800">
 ---
 
 ## 🎨 5. TouchDesigner 연결
