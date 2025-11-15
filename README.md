@@ -305,6 +305,13 @@ TouchDesigner: WebSocket DAT에서 수신
 
 ---
 
+## 📚 개발 문서
+
+- **[Next.js fetch() 완벽 가이드](./docs/nextjs-fetch-guide.md)**  
+  서버/클라이언트 컴포넌트, async/await, 캐싱 전략, 에러 처리
+
+---
+
 ## 📚 추가 리소스
 
 | 항목 | URL |
