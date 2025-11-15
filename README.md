@@ -1,7 +1,12 @@
 [English](./README.en.md) | [한국어](./README.md)
 
 # 🪟 Windows WebSocket 파이프라인 실행 가이드
-
+![Node.js](https://img.shields.io/badge/Node.js-20.x-339933?logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-16.0-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?logo=typescript&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-ws-010101?logo=socket.io&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows_10/11-0078D6?logo=windows&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
 > **Next.js → Node.js → TouchDesigner**  
 > Windows 10/11 | 초보자용 | 2025년 11월
 
